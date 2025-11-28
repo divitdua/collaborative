@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "9de0f44d-1288-4dfe-b2d7-6308a50fbb03",
+      "username": "keshee",
+      "passwordHash": "$2a$10$Q.BClcftNYUUm1WvnVo.IurAwjpPv2ol0iDoWZrMlWiGvyncznk/6"
+    },
+    {
+      "id": "9920c5d2-30ca-42ba-9beb-b4dd73a7ca1d",
+      "username": "keshav",
+      "passwordHash": "$2a$10$qUN3s8R.HBgVf/IarGr2IeR6LT30KvqppVZpCejC2aA2C.9ysiMSm"
+    }
+  ]
+}
